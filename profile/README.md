@@ -1,4 +1,4 @@
-## Hi there 👋
+## This organization belongs to Data Structures and Algorithms course at the Sharif University of Technology.
 
 <!--
 
